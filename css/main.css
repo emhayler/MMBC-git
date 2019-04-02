@@ -527,7 +527,7 @@ form,
     left: 0;
     right: 0;
     bottom: 0;
-    background: #050505;
+    background: #141E51;
     z-index: 800;
     height: 100%;
     width: 100%;
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #39b54a;
+    background-color: #C3E3E7;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -1884,7 +1884,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #39b54a;
+    background-color: #C3E3E7;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -2405,7 +2405,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #39b54a;
+    color: #C3E3E7;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
